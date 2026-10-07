@@ -1,3 +1,21 @@
+## 🖼️ Dashboard Preview
+
+### Page 01 — Netflix Content Overview
+
+![Netflix Content Overview](Dashboard/Netflix_Content_Overview.png)
+
+### Page 02 — Content Trends & Analysis
+
+![Content Trends & Analysis](Dashboard/Content_Trends_Analysis.png)
+
+### Page 03 — Functions & Lookups
+
+![Functions & Lookups](Dashboard/Functions_Lookups.png)
+
+### Page 04 — Statistical Analysis
+
+![Statistical Analysis](Dashboard/Statistical_Analysis.png)
+
 🎬 Netflix Content Insight Platform
 
 An interactive Excel-based data analytics and business intelligence platform developed to analyze Netflix's content library, identify content trends, perform statistical analysis, and provide searchable title-level insights.
